@@ -1,0 +1,6 @@
+framework module Pods_kingsapp {
+  umbrella header "Pods-kingsapp-umbrella.h"
+
+  export *
+  module * { export * }
+}
